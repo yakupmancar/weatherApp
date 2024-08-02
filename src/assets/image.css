@@ -1,0 +1,14 @@
+.img {
+  height: 100vh;
+  background-image: url('../img/img1.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.boxShadow {
+  box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+}
+
+.boxShadow2 {
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
